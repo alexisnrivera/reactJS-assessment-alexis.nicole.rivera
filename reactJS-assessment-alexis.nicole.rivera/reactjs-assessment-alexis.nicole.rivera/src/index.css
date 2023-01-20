@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.myBody{
+  background-color: rgb(85, 118, 118);
+}
+.header-bg{
+  background-color: black;
+  height: 40px;
+  color: white;
+  font-size: 20px;
+  text-align: start;
+}
+
+li {
+  list-style: none;
+  text-align: right;
+}
+
+
+
+.display-container {
+  background-color: white;
+  height: 40vh;
+  width: 90vh;
+  margin: 45px;
+  border-radius: 15px;
+ 
+}
+.data{
+display: grid;
+
+ 
+}
+
+.book-img{
+  display: flex;
+  margin: 5px;
+  
+}
+img{
+  height: 200px;
+  margin-top: 10px;
+}
+ul{
+
+  font-size: medium;
+  font-weight: bold;
+}
+
